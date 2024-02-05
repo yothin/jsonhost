@@ -1,1 +1,38 @@
-[{"id":"1","adType":"FULLSCREEN_DOWNLOAD","title":"fullscreen text ad","body":"This is the Ad Body text","image_url":"https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG","video_url":"","link":"https://github.com/Excyn/HitzAds","button_text":"Download","button_color":"#FF7171","button_text_color":"#ffffff"},{"id":"1","adType":"FULLSCREEN_IMAGE","title":"","body":"","image_url":"https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG","video_url":"","link":"https://github.com/Excyn/HitzAds","button_text":"","button_color":"","button_text_color":""},{"id":"2","adType":"FULLSCREEN_VIDEO","title":"fullscreen large vide ad","body":"This is the Ad Body text","image_url":"https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG","video_url":"https://raw.githubusercontent.com/Excyn/HitzAds/main/hitzvideoAd.mp4","link":"https://github.com/Excyn/HitzAds","button_text":"Download","button_color":"#FF7171","button_text_color":"#ffffff"}]
+[
+  {
+    "id": "1",
+    "adType": "FULLSCREEN_DOWNLOAD",
+    "title": "fullscreen text ad",
+    "body": "This is the Ad Body text",
+    "image_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG",
+    "video_url": "",
+    "link": "https://github.com/Excyn/HitzAds",
+    "button_text": "Download",
+    "button_color": "#FF7171",
+    "button_text_color": "#ffffff"
+  },
+  {
+    "id": "1",
+    "adType": "FULLSCREEN_IMAGE",
+    "title": "",
+    "body": "",
+    "image_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG",
+    "video_url": "",
+    "link": "https://github.com/Excyn/HitzAds",
+    "button_text": "",
+    "button_color": "",
+    "button_text_color": ""
+  },
+  {
+    "id": "2",
+    "adType": "FULLSCREEN_VIDEO",
+    "title": "fullscreen large vide ad",
+    "body": "This is the Ad Body text",
+    "image_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG",
+    "video_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/hitzvideoAd.mp4",
+    "link": "https://github.com/Excyn/HitzAds",
+    "button_text": "Download",
+    "button_color": "#FF7171",
+    "button_text_color": "#ffffff"
+  }
+]
