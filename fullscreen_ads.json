@@ -1,38 +1,38 @@
 [
-  {
-    "id": "1",
-    "adType": "FULLSCREEN_DOWNLOAD",
-    "title": "fullscreen text ad",
-    "body": "This is the Ad Body text",
-    "image_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG",
-    "video_url": "",
-    "link": "https://github.com/Excyn/HitzAds",
-    "button_text": "Download",
-    "button_color": "#FF7171",
-    "button_text_color": "#ffffff"
-  },
-  {
-    "id": "1",
-    "adType": "FULLSCREEN_IMAGE",
-    "title": "",
-    "body": "",
-    "image_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG",
-    "video_url": "",
-    "link": "https://github.com/Excyn/HitzAds",
-    "button_text": "",
-    "button_color": "",
-    "button_text_color": ""
-  },
-  {
-    "id": "2",
-    "adType": "FULLSCREEN_VIDEO",
-    "title": "fullscreen large vide ad",
-    "body": "This is the Ad Body text",
-    "image_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG",
-    "video_url": "https://raw.githubusercontent.com/Excyn/HitzAds/main/hitzvideoAd.mp4",
-    "link": "https://github.com/Excyn/HitzAds",
-    "button_text": "Download",
-    "button_color": "#FF7171",
-    "button_text_color": "#ffffff"
-  }
+    {
+        "id": "0",
+        "adType": "FULLSCREEN_DOWNLOAD",
+        "title": "LiveScore",
+        "body": "ผลฟุตบอลสดพร้อมไฮไลท์ สถิติ และข่าวพรีเมียร์ลีก ทั้งหมดในแอปเดียว",
+        "image_url": "https://play-lh.googleusercontent.com/ZaslmjEgpyxlF9mAyzMjngN9DXzVJ2p_1lWlb9WmvcYrwEW5ETS1d6jIDaFOcDEN5AxV=w480-h960",
+        "video_url": "",
+        "link": "https://play.google.com/store/apps/details?id=com.livescore",
+        "button_text": "Download",
+        "button_color": "#FF7171",
+        "button_text_color": "#ffffff"
+    },
+    {
+        "id": "1",
+        "adType": "FULLSCREEN_IMAGE",
+        "title": "",
+        "body": "",
+        "image_url": "https://s3.amazonaws.com/mobileaction.ads.public/v4/android/FacebookNative/com.uefa.ucl/2023/3/14/19/57/ba4e122ad80cf4ce7e51d719eac8766f.jpg",
+        "video_url": "",
+        "link": "https://play.google.com/store/apps/details?id=com.uefa.ucl&hl=en&gl=th",
+        "button_text": "",
+        "button_color": "",
+        "button_text_color": ""
+    },
+    {
+        "id": "2",
+        "adType": "FULLSCREEN_VIDEO",
+        "title": "Premier League Official",
+        "body": "สหายอย่างเป็นทางการและชัดเจนของคุณเพื่อลีกจับตามองมากที่สุดในโลก",
+        "image_url": "https://play-lh.googleusercontent.com/pJPgV--7ICYdqOyd6_8pgVXx9jIa81_YNLKI532jiGa9xBMZJarKRzgj76oYXUO7zK8=w480-h960-rw",
+        "video_url": "https://github.com/yothin/jsonhost/raw/main/IT%20S%20TIME!%20Get%20hyped%20for%20the%202023_24%20Premier%20League%20season.mp4",
+        "link": "https://play.google.com/store/apps/details?id=com.pl.premierleague&gl=th&hl=en",
+        "button_text": "Download",
+        "button_color": "#FF7171",
+        "button_text_color": "#ffffff"
+    }
 ]
