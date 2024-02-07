@@ -1,1 +1,50 @@
-[{"id":"1","adType":"BANNER_TEXT","title":"banner text ad","body":"body1","image_url":"https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG","video_url":"","link":"https://github.com/Excyn/HitzAds","button_text":"","button_color":"","button_text_color":""},{"id":"2","adType":"BANNER_LARGE_TEXT","title":"banner large text ad","body":"body2","image_url":"https://raw.githubusercontent.com/Excyn/HitzAds/main/logo.JPG","video_url":"","link":"https://github.com/Excyn/HitzAds","button_text":"","button_color":"","button_text_color":""},{"id":"2","adType":"BANNER_IMAGE","title":"","body":"","image_url":"https://picsum.photos/720/60","video_url":"","link":"https://github.com/Excyn/HitzAds","button_text":"","button_color":"","button_text_color":""},{"id":"2","adType":"BANNER_LARGE_IMAGE","title":"","body":"","image_url":"https://picsum.photos/720/100","video_url":"","link":"https://github.com/Excyn/HitzAds","button_text":"","button_color":"","button_text_color":""}]
+[
+    {
+        "id": "1",
+        "adType": "BANNER_TEXT",
+        "title": "LiveScore",
+        "body": "ผลฟุตบอลสดพร้อมไฮไลท์ สถิติ และข่าวพรีเมียร์ลีก ทั้งหมดในแอปเดียว",
+        "image_url": "https://play-lh.googleusercontent.com/ZaslmjEgpyxlF9mAyzMjngN9DXzVJ2p_1lWlb9WmvcYrwEW5ETS1d6jIDaFOcDEN5AxV=w480-h960",
+        "video_url": "",
+        "link": "https://play.google.com/store/apps/details?id=com.livescore",
+        "button_text": "",
+        "button_color": "",
+        "button_text_color": ""
+    },
+    {
+        "id": "2",
+        "adType": "BANNER_LARGE_TEXT",
+        "title": "Premier League Official",
+        "body": "สหายอย่างเป็นทางการและชัดเจนของคุณเพื่อลีกจับตามองมากที่สุดในโลก",
+        "image_url": "https://play-lh.googleusercontent.com/pJPgV--7ICYdqOyd6_8pgVXx9jIa81_YNLKI532jiGa9xBMZJarKRzgj76oYXUO7zK8=w480-h960-rw",
+        "video_url": "",
+        "link": "https://play.google.com/store/apps/details?id=com.pl.premierleague&gl=th&hl=en",
+        "button_text": "",
+        "button_color": "",
+        "button_text_color": ""
+    },
+    {
+        "id": "3",
+        "adType": "BANNER_TEXT",
+        "title": "LALIGA: Official App",
+        "body": "ผลฟุตบอล เป้าหมาย รายชื่อผู้เล่น ไฮไลท์ การซื้อขาย และข่าวสาร",
+        "image_url": "https://play-lh.googleusercontent.com/X2Wk90ebc2QbRtF_MOpAPk-WqHwNTggJCriIkOj73T1OwxkQuwAbSKXMNUtgL9TcoXCq=s112",
+        "video_url": "",
+        "link": "https://play.google.com/store/apps/details?hl=th&id=es.lfp.gi.main",
+        "button_text": "",
+        "button_color": "",
+        "button_text_color": ""
+    },
+    {
+        "id": "4",
+        "adType": "BANNER_LARGE_IMAGE",
+        "title": "Champions League Official",
+        "body": "ผลฟุตบอลสด ข่าว สถิติ วิดีโอ & เกมแฟนตาซีฟุตบอล",
+        "image_url": "https://play-lh.googleusercontent.com/lPXCmCVSfI3NJ8QH0-m9hCwZhZ09sTzI4PhIgrMeZ0TQI8HXtE6jOq1bXik9V9RETA=w480-h960",
+        "video_url": "",
+        "link": "https://play.google.com/store/apps/details?hl=th&id=com.uefa.ucl",
+        "button_text": "",
+        "button_color": "",
+        "button_text_color": ""
+    }
+]
