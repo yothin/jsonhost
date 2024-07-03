@@ -1,0 +1,32 @@
+{
+	"books" : [
+		{
+			"title":"คู่มือการผลิตทุเรียนคุณภาพ",
+			"download_link":"https://www.sotus.co.th/site/wp-content/uploads/2020/04/HB-Durian-2018.pdf"
+		},
+		{
+			"title":"คู่มือการดูแลทุเรียน",
+			"download_link":"https://www.sotus.co.th/site/wp-content/uploads/2024/04/guide-HB-for-young-Durian-plantation_compressed.pdf"
+		},
+		{
+			"title":"เอกสารวิชาการ โรคทุเรียน",
+			"download_link":"https://doa.go.th/share/attachment.php?aid=3141"
+		},
+		{
+			"title":"ความหลากหลายของทุเรียนพื้นเมืองในพื้นที่ภาคใต้ตอนบน",
+			"download_link":"https://doa.go.th/share/attachment.php?aid=3006"
+		},
+		{
+			"title":"การคัดเลือกสายต้นทุเรียนพื้นเมืองพันธุ์ดีในเขตพื้นที่ภาคเหนือตอนล่าง",
+			"download_link":"https://www.doa.go.th/research/attachment.php?aid=2397"
+		},
+		{
+			"title":"วิจัยและพัฒนาแก้ไขปัญหาการผลิตทุเรียนภาคตะวันออกให้มีคุณภาพเพื่อการส่งออก",
+			"download_link":"https://www.doa.go.th/research/attachment.php?aid=2929"
+		},
+		{
+			"title":"คู่มือการผลิตทุเรียนคาร์บอนต่ำ",
+			"download_link":"https://www.doa.go.th/th/wp-content/uploads/2024/04/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B3-4-Dec-2023-ver2.pdf"
+		}
+	]
+}
