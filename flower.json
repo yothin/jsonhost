@@ -1,0 +1,24 @@
+{
+	"books" : [
+		{
+			"title":"กุหลาบ",
+			"download_link":"https://www.sotus.co.th/site/wp-content/uploads/2020/04/HB-rose-2016.pdf"
+		},
+		{
+			"title":"ดาวเรือง",
+			"download_link":"https://www.sotus.co.th/site/wp-content/uploads/2020/04/HB-marigold.pdf"
+		},
+		{
+			"title":"กล้วยไม้สกุลหวาย",
+			"download_link":"https://www.sotus.co.th/site/wp-content/uploads/2024/03/Dendrobium.pdf"
+		},
+		{
+			"title":"https://www.sotus.co.th/site/wp-content/uploads/2020/05/HB-jasmine.pdf",
+			"download_link":"มะลิ"
+		},
+		{
+			"title":"ลีลาวดี",
+			"download_link":"https://www.sotus.co.th/site/images/technic/pdf/11789312Lelawadeeforweb.pdf"
+		}
+	]
+}
