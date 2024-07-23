@@ -13,7 +13,7 @@
     },
     {
         "id": "2",
-        "adType": "BANNER_LARGE_TEXT",
+        "adType": "BANNER_TEXT",
         "title": "คาร์บาริล (1 กก.) กำจัดแมลงปีกแข็ง",
         "body": "โอโซคอท85 คาร์บาริล (1 กก.) กำจัด หนอน ด้วง ไรไก่ ค่อมทอง เต่าทอง มด แมลงสาบ ตะขาบ ตะเข็บ เพลี้ย เห็บ หมัด ปลวก",
         "image_url": "https://down-tx-sg.img.susercontent.com/f8adf485d37b299e480b44d9a655c1c4.webp",
@@ -39,7 +39,7 @@
     },
     {
         "id": "4",
-        "adType": "BANNER_LARGE_IMAGE",
+        "adType": "BANNER_TEXT",
         "title": "เพียวสูตร1 จากเกษตรเพียว สร้างภูมิคุ้นกันให้พืชแข็งแรงทนทานเขียวนาน",
         "body": "ช่วยทำหน้าที่เพิ่มความแข็งแรงให้กับพืชเสริมสร้างภูมิต้านทานโรคและแมลง",
         "image_url": "https://down-aka-sg.img.susercontent.com/a9837d09c7cc96383450e738e77d09c5.webp",
